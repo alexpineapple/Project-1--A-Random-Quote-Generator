@@ -2,13 +2,14 @@
 Treehouse FSJS Techdegree:
 project 1 - A Random Quote Generator
 ******************************************/
+console.log("Hello there");
 
-// For assistance: 
+// For assistance:
   // Check the "Project Resources" section of the project instructions
   // Reach out in your Slack community - https://treehouse-fsjs-102.slack.com/app_redirect?channel=chit-chat
 
-/*** 
- * `quotes` array 
+/***
+ * `quotes` array
 ***/
 
 
